@@ -1,6 +1,9 @@
 # Processo Seletivo Cromai | Calculadora - Teorema de Pitágoras
 
-### [Link](protective-toothpaste.surge.sh) do surge para visualização rápida da página: 
+### Link do surge para visualização rápida da página: 
+```
+protective-toothpaste.surge.sh
+```
 
 ### 💻 Tecnologias: 
  - Javascript
