@@ -7,6 +7,8 @@ protective-toothpaste.surge.sh
 
 ### 💻 Tecnologias: 
  - Javascript
+ - HTML
+ - CSS
  - React.js
 
 ### 🎨 Layout:
