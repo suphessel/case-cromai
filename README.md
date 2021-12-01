@@ -1,6 +1,6 @@
 # Processo Seletivo Cromai | Calculadora - Teorema de Pitágoras
 
-### 🔗 Link do surge para visualização rápida da página: 
+Link do surge [ aqui](protective-toothpaste.surge.sh) para visualização rápida da página
 
 ### 💻 Tecnologias: 
  - Javascript
@@ -16,8 +16,10 @@
 
 ### 🔨 Como executar o projeto:
 
-Clone o repositório com o link:
-
+Clone o repositório com o link: 
+```
+https://github.com/suphessel/case-cromai.git
+```
 Instale as dependências com :
 
 ```
